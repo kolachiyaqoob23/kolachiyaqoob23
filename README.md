@@ -174,7 +174,7 @@ Selected for a cybersecurity internship opportunity, with exposure to areas incl
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://camo.githubusercontent.com/589af5d060c69724a7d28f0cc1de77f8e75fe3ff13d84f08070ba95ae50df5b6/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667" width="100%"/>
 
 </div>
 
