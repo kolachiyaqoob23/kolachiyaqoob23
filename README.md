@@ -158,7 +158,7 @@ Selected for a cybersecurity internship opportunity, with exposure to areas incl
 
 <div align="center">
 
-<img width="49%" src="https://camo.githubusercontent.com/dde36945009e5e10e0149f47525b9489f676d7f2f8d95b24bdae9ca1b4319728/68747470733a2f2f6769746875622d726561646d652d73746174732e7368696f6e2e6465762f6170693f757365726e616d653d456d616e6a616d696c3233267468656d653d6461726b26686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d66616c736526636f756e745f707269766174653d66616c7365" />
+<img width="49%" src="https://camo.githubusercontent.com" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kolachiyaqoob23&layout=compact&theme=tokyonight&hide_border=true" />
 
